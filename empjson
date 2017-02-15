@@ -1,0 +1,15 @@
+{
+	"id":12,
+	"name":"A",
+	"perment":true,
+	"address":{
+			"street":"AB Road",
+			"city":"Mumbai",
+			"Pin":425845
+		}
+	"Phone":[9898989898,9988998899],
+	"role":"Developer"	
+
+
+
+}
